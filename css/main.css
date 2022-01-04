@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fraunces&family=Inconsolata:wght@600;800&family=Josefin+Sans:ital,wght@0,700;1,400&family=Livvic:ital,wght@0,600;0,700;1,400;1,500;1,700&family=Poppins:wght@400;500;600;700;800&family=Road+Rage&family=Roboto:ital,wght@0,700;1,900&family=Wallpoet&display=swap');
+
+.body{
+    background-color: blue;
+    font-family: 'Anton', sans-serif;
+}
+
+.container{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    padding: 40px;
+    margin-top: 30px;
+}
+
+.heading{
+    font-size: 50px !important;
+}
+
+.text{
+    font-size: 35px !important;
+}
